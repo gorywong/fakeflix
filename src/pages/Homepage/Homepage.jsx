@@ -1,11 +1,11 @@
 import Navbar from "../../components/Navbar/Navbar";
 
-const Home = () => {
+const Homepage = () => {
   return (
-    <div className="bg-nfblack">
+    <div className="">
       <Navbar />
     </div>
   );
 };
 
-export default Home;
+export default Homepage;
